@@ -1,0 +1,1 @@
+A CNN with 1 Conv2d layer, 1 MaxPool layers, 1 Flatten layer, and 1 Dense layer (ANN with 3 layers)
